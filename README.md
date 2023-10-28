@@ -4,7 +4,7 @@
 
 ## Features
  - Extract embeddings from images using pre-trained models.
- - Train and fine-tune your recognition model.
+ - Train the recognition model.
  - Add new classes to the existing model and update embeddings.
 
 # Requirements
